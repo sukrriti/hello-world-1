@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning!!! Have a nice day!!!
-   From SUKRITI 
+   From SUKRITI... 
    </h1>
 
   
