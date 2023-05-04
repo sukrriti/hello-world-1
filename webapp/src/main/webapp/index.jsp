@@ -31,7 +31,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning!!! Have a nice day!!! </h1>
+   <h1> Thankyou, Happy Learning!!! Have a nice day!!!
+   From SUKRITI 
+   </h1>
 
   
 </form>
