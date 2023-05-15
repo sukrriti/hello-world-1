@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning!!! Have a nice day!!!
-   From SUKRITI SHIVANGI. 
+   <h1> Thankyou, Happy Learning!!!
+   From RICHA
    </h1>
 
   
