@@ -214,10 +214,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/hello-world-1.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/hello-world-1.git</developerConnection>
+    <connection>scm:git:git@github.com:sukrriti/hello-world-1.git</connection>
+    <developerConnection>scm:git:git@github.com:sukrriti/hello-world-1.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/hello-world-1</url>
+    <url>http://github.com/sukrriti/hello-world-1</url>
   </scm>
 
   <prerequisites>
